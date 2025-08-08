@@ -4,10 +4,9 @@
 
 <div align="center">
 
-| **👨‍💻 Author** | **🛠️ Tech Stack** | **📚 Dataset** | **📈 Features** |  
-|:---------------:|:-----------------:|:-------------:|:---------------:|  
-| Manish Kumar | Python, TensorFlow, Keras, NumPy, Pandas | WikiText-2 (Raw) - 100M+ words | Tokenization & Sequence Generation<br>LSTM Model Training<br>Next Word Prediction Pipeline |
-
+| **👨‍💻 Author** | **🌐 Portfolio** | **🛠️ Technology Stack** | **📚 Dataset** | **📈 Key Highlights** |  
+|:---------------:|:----------------:|:-----------------------:|:-------------:|:--------------------:|  
+| Manish Kumar    | [🔗 View Portfolio](https://your-portfolio-link.com) | Python, TensorFlow, Keras, NumPy, Pandas | WikiText-2 (Raw) | Tokenization & Sequence Generation<br>LSTM-based Language Model<br>Interactive Next-Word Prediction |
 </div>
 
 ---
