@@ -6,7 +6,7 @@
 
 | **👨‍💻 Author** | **🌐 Portfolio** | **🛠️ Technology Stack** | **📚 Dataset** | **📈 Key Highlights** |  
 |:---------------:|:----------------:|:-----------------------:|:-------------:|:--------------------:|  
-| Manish Kumar    | [🔗 View Portfolio](https://your-portfolio-link.com) | Python, TensorFlow, Keras, NumPy, Pandas | WikiText-2 (Raw) | Tokenization & Sequence Generation<br>LSTM-based Language Model<br>Interactive Next-Word Prediction |
+| Manish Kumar    | [🔗 View Portfolio]([https://your-portfolio-link.com](https://portfolio-tau-two-4ctl6fnzgq.vercel.app/)) | Python, TensorFlow, Keras, NumPy, Pandas | WikiText-2 (Raw) | Tokenization & Sequence Generation<br>LSTM-based Language Model<br>Interactive Next-Word Prediction |
 </div>
 
 ---
